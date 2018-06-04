@@ -1,0 +1,6 @@
+com\example\BasicApplication.class
+com\example\BookProductResource.class
+com\example\DataLoader.class
+com\example\Book.class
+com\example\BookProduct.class
+com\example\BookProductRepository.class

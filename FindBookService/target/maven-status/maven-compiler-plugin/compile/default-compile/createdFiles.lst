@@ -1,0 +1,5 @@
+com\example\BookRepository.class
+com\example\BookResource.class
+com\example\BasicApplication.class
+com\example\DataLoader.class
+com\example\Book.class

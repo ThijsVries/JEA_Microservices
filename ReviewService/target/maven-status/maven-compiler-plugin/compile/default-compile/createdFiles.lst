@@ -1,0 +1,5 @@
+com\example\BookReviewResource.class
+com\example\BookReviewRepository.class
+com\example\BasicApplication.class
+com\example\BookReview.class
+com\example\DataLoader.class
